@@ -1,0 +1,6 @@
+{
+  "name": "معالج الهاتف بتقنية 3 نانومتر",
+  "description": "محاكاة تفاعلية ثلاثية الأبعاد لمعمارية معالج الهاتف بدقة تصنيع 3 نانومتر وتقنية GAA لضمان سلاسة الأداء وكفاءة الطاقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
